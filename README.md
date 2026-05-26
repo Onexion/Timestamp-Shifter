@@ -14,7 +14,7 @@
 
 ## 🚀 How to use it
 
-Using Chronos is extremely straightforward:
+Using Timestamp-Shifter is extremely straightforward:
 
 ### Step 1: Run the Tool & Select a File
 1. Start `Main.exe`.
